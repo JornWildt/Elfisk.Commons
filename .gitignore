@@ -1,0 +1,14 @@
+Binaries/
+bin/
+obj/
+*.nupkg
+*.user
+*.suo
+TestResult.xml
+*.VisualState.xml
+UNUSED*
+UNUSED*/
+.vs/
+Logs/
+packages/
+TestResults/

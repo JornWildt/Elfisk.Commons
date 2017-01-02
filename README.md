@@ -1,0 +1,2 @@
+# Elfisk.Commons
+Various utilities.
